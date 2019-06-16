@@ -1,7 +1,3 @@
-consloe.log("hello");
-:wq
-
-
-
-	:wq
-
+consloe.log("hello geek !");
+:w
+ 
