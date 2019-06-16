@@ -1,7 +1,7 @@
-consloe.log("hello");
-:wq
+consloe.log("hello git hub changing");
 
 
 
-	:wq
+
+	
 
